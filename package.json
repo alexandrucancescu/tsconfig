@@ -1,0 +1,19 @@
+{
+  "name": "tsconfig",
+  "version": "1.0.0",
+  "description": "My tsconfig",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrucancescu/tsconfig.git"
+  },
+  "author": "Alexandru Cancescu",
+  "license": "MIT",
+  "homepage": "https://github.com/alexandrucancescu/tsconfig#readme",
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "tsconfig.json"
+  ]
+}
